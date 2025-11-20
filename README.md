@@ -9,7 +9,7 @@ Link to my personal account github code:  https://github.com/dolcenci/CRUDWithAD
 
 
 Summary of Improvements Based on Lecturer Feedback
-After reviewing the lecturer’s feedback, several enhancements were made across the system to address usability, organisation, and functionality shortcomings:
+After reviewing the lecturer’s feedback, several enhancements were made across the system to address usabilit, organisation, and functionality shortcomings:
 1. Lecturers’ Claim Submission – Improved Feature Implementation
 Refined the claim submission workflow to remove usability issues.
 
