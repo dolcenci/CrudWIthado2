@@ -30,7 +30,7 @@ Reorganised the view to provide a clearer, more user-friendly layout
 Grouped related information together to reduce clutter and improve readability
 
 
-Added better labels, spacing, and visual hierarchy so users can find information more easily.
+Added better labels, spacing, and visual hierarchy so users can find information more easily..
 
 
 Improved the consistency of design elements across the view.
