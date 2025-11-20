@@ -20,7 +20,7 @@ Ensured all required fields are validated properly before submission.
 Improved the layout and structure of the submission screen to make it more intuitive for lecturers.
 
 
-Enhanced navigation and reduced steps, making the feature smoother and more reliable.
+Enhanced navigation and reduced steps, making the feature smoother and more reliable
 
 
 2. Programme Coordinators & Managers’ View – Improved Interface Design
