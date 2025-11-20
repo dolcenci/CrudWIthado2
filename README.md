@@ -24,7 +24,7 @@ Enhanced navigation and reduced steps, making the feature smoother and more reli
 
 
 2. Programme Coordinators & Managers’ View – Improved Interface Design
-Reorganised the view to provide a clearer, more user-friendly layout.
+Reorganised the view to provide a clearer, more user-friendly layout
 
 
 Grouped related information together to reduce clutter and improve readability.
